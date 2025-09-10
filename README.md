@@ -10,7 +10,7 @@
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/shadymo2291/huddle-landing-page-with-single-introductory-section-master-solution
 
 ### Built with
 
