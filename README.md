@@ -10,7 +10,7 @@
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/shadymo2291/huddle-landing-page-with-single-introductory-section-master-solution
 
 ### Built with
 
@@ -30,30 +30,30 @@ and pseudo-elements and hover effect
 To see how you can add code snippets, see below:
 
 main > h1 {
-width: 70%;
-text-align: center;
-background-clip: text;
--webkit-background-clip: text;
-color: transparent;
-background-image: linear-gradient(90deg, #FFEB3B, #00BCD4);
-text-transform: capitalize;
-font-weight: 800;
-margin: 0px auto 40px;
-padding-top: 30px;
-line-height: 1.1;
-transform: rotateX(90deg);
-transform-origin: top;
-transition: all 0.5s;
+  width: 70%;
+  text-align: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(90deg, #FFEB3B, #00BCD4);
+  text-transform: capitalize;
+  font-weight: 800;
+  margin: 0px auto 40px;
+  padding-top: 30px;
+  line-height: 1.1;
+  transform: rotateX(90deg);
+  transform-origin: top;
+  transition: all 0.5s;
 }
 main:hover h1 {
-transform: rotateX(0deg);
+  transform: rotateX(0deg);
 }
 @media (min-width: 769px) {
-main > h1 {
-margin-bottom: 30px;
-padding-top: 0;
-font-size: 35px;
-}
+  main > h1 {
+    margin-bottom: 30px;
+    padding-top: 0;
+    font-size: 35px;
+  }
 }
 
 ### Continued development
